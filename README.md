@@ -1,7 +1,7 @@
 [![Python application test with Github Actions](https://github.com/nogibjj/Project4_Kashaf/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/Project4_Kashaf/actions/workflows/main.yml)
 [![AWS CodeBuild](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiOHpvOEIvN2VKSS9UaGhJMHRyT25Vd2NjN2tkVHQ5Vno1bm1Sa0hXTWhPTnZ4Q1dORDVoS2tqMkI2cGVTcTQ1K0pMaDlCR1lrWmU3ZnZoUDhGRWg0NDk4PSIsIml2UGFyYW1ldGVyU3BlYyI6Ikh0NThHK3Nyc2R4TDMydWYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 
-## Project4_Kashaf
+## Wikipedia Microservice
 
 In this project, I created a Microservice that returns a JSON payload and uses python wikipedia and textblob libraries to perform data engineering task, while employing a cli tool using cli-fire. Later, I also containerised it using Docker and built Continuous Delivery of FastAPI on AWS.
 
